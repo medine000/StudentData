@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\BMUdata\BMUdata\bin\Debug\net10.0-windows\BMUdata.exe
+C:\Users\hp\source\repos\BMUdata\BMUdata\bin\Debug\net10.0-windows\BMUdata.deps.json
+C:\Users\hp\source\repos\BMUdata\BMUdata\bin\Debug\net10.0-windows\BMUdata.runtimeconfig.json
+C:\Users\hp\source\repos\BMUdata\BMUdata\bin\Debug\net10.0-windows\BMUdata.dll
+C:\Users\hp\source\repos\BMUdata\BMUdata\bin\Debug\net10.0-windows\BMUdata.pdb
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.Form1.resources
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.AssemblyInfo.cs
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.dll
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\refint\BMUdata.dll
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.pdb
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.genruntimeconfig.cache
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\ref\BMUdata.dll
+C:\Users\hp\source\repos\BMUdata\BMUdata\obj\Debug\net10.0-windows\BMUdata.Properties.Resources.resources
