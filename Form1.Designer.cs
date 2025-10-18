@@ -277,6 +277,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.LightSeaGreen;
             ClientSize = new Size(1006, 624);
             Controls.Add(maskedTextBox5);
             Controls.Add(maskedTextBox4);
